@@ -1,23 +1,5 @@
 `timescale 1ns / 1ps
-//////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: 
-// 
-// Create Date:    08:58:02 01/12/2023 
-// Design Name: 
-// Module Name:    one_Hot_Decoder 
-// Project Name: 
-// Target Devices: 
-// Tool versions: 
-// Description: 
-//
-// Dependencies: 
-//
-// Revision: 
-// Revision 0.01 - File Created
-// Additional Comments: 
-//
-//////////////////////////////////////////////////////////////////////////////////
+
 module one_Hot_Decoder(   // 3 to 8 decoder : one of them 1 others 0
     input [2:0] sel,
     output [7:0] res
