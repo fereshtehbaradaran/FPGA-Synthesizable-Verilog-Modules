@@ -1,23 +1,5 @@
 `timescale 1ns / 1ps
-//////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: 
-// 
-// Create Date:    09:44:39 01/12/2023 
-// Design Name: 
-// Module Name:    sequential_complex_Multiplier 
-// Project Name: 
-// Target Devices: 
-// Tool versions: 
-// Description: 
-//
-// Dependencies: 
-//
-// Revision: 
-// Revision 0.01 - File Created
-// Additional Comments: 
-//
-//////////////////////////////////////////////////////////////////////////////////
+
 module sequential_complex_Multiplier(CLK, A, B, Oper_Load, Oper_AddSub, RES);
 	parameter A_WIDTH = 18;
 	parameter B_WIDTH = 18;
