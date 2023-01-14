@@ -1,27 +1,5 @@
 `timescale 1ns / 1ps
 
-////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer:
-//
-// Create Date:   19:07:11 12/27/2022
-// Design Name:   fourBit_FF_posedgeClk_async_set_CE
-// Module Name:   C:/Users/fereshteh/FPGA/Flip_Flops/fourBit_FF_posedgeClk_async_set_CE_tst.v
-// Project Name:  Flip_Flops
-// Target Device:  
-// Tool versions:  
-// Description: 
-//
-// Verilog Test Fixture created by ISE for module: fourBit_FF_posedgeClk_async_set_CE
-//
-// Dependencies:
-// 
-// Revision:
-// Revision 0.01 - File Created
-// Additional Comments:
-// 
-////////////////////////////////////////////////////////////////////////////////
-
 module fourBit_FF_posedgeClk_async_set_CE_tst;
 
 	// Inputs
