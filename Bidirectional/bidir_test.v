@@ -1,27 +1,5 @@
 `timescale 1ns / 1ps
 
-////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer:
-//
-// Create Date:   20:28:44 12/18/2022
-// Design Name:   bidirec
-// Module Name:   C:/Users/fereshteh/fundamentals/bidir_test.v
-// Project Name:  fundamentals
-// Target Device:  
-// Tool versions:  
-// Description: 
-//
-// Verilog Test Fixture created by ISE for module: bidirec
-//
-// Dependencies:
-// 
-// Revision:
-// Revision 0.01 - File Created
-// Additional Comments:
-// 
-////////////////////////////////////////////////////////////////////////////////
-
 module bidir_test;
 
 	// Inputs
