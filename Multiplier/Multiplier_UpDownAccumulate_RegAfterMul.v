@@ -1,23 +1,5 @@
 `timescale 1ns / 1ps
-//////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: 
-// 
-// Create Date:    11:59:37 01/12/2023 
-// Design Name: 
-// Module Name:    multiplier_UpDownAccumulate_regAfterMul 
-// Project Name: 
-// Target Devices: 
-// Tool versions: 
-// Description: 
-//
-// Dependencies: 
-//
-// Revision: 
-// Revision 0.01 - File Created
-// Additional Comments: 
-//
-//////////////////////////////////////////////////////////////////////////////////
+
 module multiplier_UpDownAccumulate_regAfterMul(
     input CLK,
     input [7:0] A,
