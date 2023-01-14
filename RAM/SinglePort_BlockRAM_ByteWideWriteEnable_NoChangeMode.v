@@ -1,23 +1,5 @@
 `timescale 1ns / 1ps
-//////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: 
-// 
-// Create Date:    15:24:36 01/12/2023 
-// Design Name: 
-// Module Name:    singlePort_blockRAM_byteWideWriteEnable_NoChangeMode 
-// Project Name: 
-// Target Devices: 
-// Tool versions: 
-// Description: 
-//
-// Dependencies: 
-//
-// Revision: 
-// Revision 0.01 - File Created
-// Additional Comments: 
-//
-//////////////////////////////////////////////////////////////////////////////////
+
 module singlePort_blockRAM_byteWideWriteEnable_NoChangeMode(CLK, we, addr, DI, DO);
 	parameter SIZE = 512;
 	parameter ADD_WIDTH = 9;
