@@ -1,23 +1,5 @@
 `timescale 1ns / 1ps
-//////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: 
-// 
-// Create Date:    11:46:06 01/12/2023 
-// Design Name: 
-// Module Name:    multiplier_adderSubtractor_2ResgisterLevelInput 
-// Project Name: 
-// Target Devices: 
-// Tool versions: 
-// Description: 
-//
-// Dependencies: 
-//
-// Revision: 
-// Revision 0.01 - File Created
-// Additional Comments: 
-//
-//////////////////////////////////////////////////////////////////////////////////
+
 module multiplier_adderSubtractor_2ResgisterLevelInput(
     input CLK,
     input [7:0] A,
