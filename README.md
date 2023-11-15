@@ -20,6 +20,6 @@ Each module is provided as a `.v` file that can be directly used or modified for
 To use these modules, clone this repository and import the desired Verilog files into your design tool. These modules are written in a way that they can be synthesized on various FPGA platforms.
 
 ```
-git clone https://github.com/fereshtehbaradaran/FPGA_Synthesizable_Verilog_Modules
+git clone https://github.com/fereshtehbaradaran/FPGA-Synthesizable-Verilog-Modules
 ```
 
